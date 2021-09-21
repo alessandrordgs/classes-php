@@ -1,6 +1,6 @@
 <?php
 
-abstract class Pessoa{
+abstract class  Pessoa{
   public $nome;
   public $cpf;
   public $data_nascimento;
